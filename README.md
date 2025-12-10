@@ -54,13 +54,13 @@ StudentTradeHub is a peer-to-peer marketplace platform exclusively for Memorial 
 - **Simplicity**: Streamlined buying/selling process
 
 ### 1.4 Use Case Diagram
-![alt text](./diagrams/UseCaseDiagram.jpeg)
+![alt text](./Documentation/diagrams/UseCaseDiagram.jpeg)
 ---
 
 ## 2. System Architecture
 
 ### 2.1 High-Level Architecture
-![alt text](./diagrams/SystemArchitecture.jpeg)
+![alt text](./Documentation/diagrams/SystemArchitecture.jpeg)
 
 ### 2.2 Architecture Patterns
 
@@ -426,7 +426,7 @@ Routes map HTTP methods to controller functions. See [Section 8: API Reference](
 - Many-to-One: Review → Product
 
 ### 7.5 Entity Relationship Diagram
-![alt text](./diagrams/ERDiagram.jpeg)
+![alt text](./Documentation/diagrams/ERDiagram.jpeg)
 
 ---
 
